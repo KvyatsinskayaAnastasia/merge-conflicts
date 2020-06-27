@@ -1,9 +1,13 @@
 # Skills
 
 # English
-- skill: English(pre-intermediate)
+- skill: English (pre-intermediate)
   description: In the process of improving fluent communication skills
   
 # HTML, JS
 - skill: HTML, JS
-  description: Basic knowledge of HTML and JS.
+  description: Knowledge of HTML and JS.
+
+# Java
+- skill: Java
+  description: Knowledge of Java.
